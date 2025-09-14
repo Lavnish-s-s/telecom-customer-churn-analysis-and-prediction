@@ -95,7 +95,7 @@ Power BI dashboard visualizing model predictions:
 
 ## Screenshots
 
-![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Lavnish-s-s/telecom-customer-churn-analysis-and-prediction/blob/main/Images/PredicitonDashboard.png))
 ![Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ---
