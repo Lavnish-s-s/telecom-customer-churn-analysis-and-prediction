@@ -13,8 +13,8 @@ This project presents a comprehensive approach to understanding and predicting c
 - [Prediction Dashboard](#prediction-dashboard)
 - [Key Insights](#key-insights)
 - [Tech Stack](#tech-stack)
-- [Installation & Usage](#installation--usage)
 - [Screenshots](#screenshots)
+- [Installation & Usage](#installation--usage)
 
 ---
 
@@ -97,7 +97,11 @@ Power BI dashboard visualizing model predictions:
 
 Here’s a preview of the Churn Prediction Dashboard:
 
-![Churn Prediction Dashboard](https://github.com/Lavnish-s-s/telecom-customer-churn-analysis-and-prediction/blob/main/Images/PredicitonDashboard.png)
+<img src="https://github.com/Lavnish-s-s/telecom-customer-churn-analysis-and-prediction/blob/main/Images/PredicitonDashboard.png" alt="Churn Prediction Dashboard" width="600"/>
+
+And here’s the Churn Analysis Dashboard snapshot:
+
+<img src="https://github.com/Lavnish-s-s/telecom-customer-churn-analysis-and-prediction/blob/main/Images/churn%20dashboard%20snapshot.png" alt="Churn Analysis Dashboard" width="600"/>
 
 ---
 
